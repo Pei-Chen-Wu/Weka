@@ -1,0 +1,434 @@
+@relation WekaODF-weka.filters.unsupervised.attribute.OrdinalToNumeric-R5-weka.filters.unsupervised.attribute.OrdinalToNumeric-R9
+
+@attribute PassengerId numeric
+@attribute Pclass numeric
+@attribute Name {'Abbott, Master. Eugene Joseph','Abelseth, Miss. Karen Marie','Abelseth, Mr. Olaus Jorgensen','Abrahamsson, Mr. Abraham August Johannes','Abrahim, Mrs. Joseph (Sophie Halaut Easu)','Aks, Master. Philip Frank','Aldworth, Mr. Charles Augustus','Allison, Mr. Hudson Joshua Creighton','Andersen, Mr. Albert Karvin','Andersson, Miss. Ida Augusta Margareta','Andersson, Mr. Johan Samuel','Andrew, Mr. Frank Thomas','Angheloff, Mr. Minko','Angle, Mr. William A','Aronsson, Mr. Ernst Axel Algot','Ashby, Mr. John','Asplund, Master. Carl Edgar','Asplund, Master. Filip Oscar','Asplund, Mr. Carl Oscar Vilhelm Gustafsson','Asplund, Mr. Johan Charles','Assaf Khalil, Mrs. Mariana (Miriam\")\"','Assaf, Mr. Gerios','Assam, Mr. Ali','Astor, Col. John Jacob','Baccos, Mr. Raffull','Badman, Miss. Emily Louisa','Baimbrigge, Mr. Charles Robert','Barry, Miss. Julia','Beattie, Mr. Thomson','Beauchamp, Mr. Henry James','Becker, Miss. Ruth Elizabeth','Becker, Mrs. Allen Oliver (Nellie E Baumgardner)','Bentham, Miss. Lilian W','Betros, Master. Seman','Bird, Miss. Ellen','Birnbaum, Mr. Jakob','Bjorklund, Mr. Ernst Herbert','Bonnell, Miss. Caroline','Borebank, Mr. John James','Botsford, Mr. William Hull','Boulos, Master. Akar','Bowen, Miss. Grace Scott','Bowenur, Mr. Solomon','Bradley, Miss. Bridget Delia','Brady, Mr. John Bertram','Braf, Miss. Elin Ester Maria','Brandeis, Mr. Emil','Brobeck, Mr. Karl Rudolf','Brown, Miss. Edith Eileen','Brown, Mrs. John Murray (Caroline Lane Lamson)','Bryhl, Miss. Dagmar Jenny Ingeborg ','Buckley, Miss. Katherine','Buckley, Mr. Daniel','Bucknell, Mrs. William Robert (Emma Eliza Ward)','Burns, Miss. Mary Delia','Cacic, Miss. Manda','Cacic, Mr. Jego Grga','Caldwell, Mr. Albert Francis','Canavan, Mr. Patrick','Candee, Mrs. Edward (Helen Churchill Hungerford)','Caram, Mr. Joseph','Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)','Carlsson, Mr. Carl Robert','Carr, Miss. Jeannie','Carrau, Mr. Jose Pedro','Carver, Mr. Alfred John','Case, Mr. Howard Brown','Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)','Cavendish, Mrs. Tyrell William (Julia Florence Siegel)','Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)','Chapman, Mrs. John Henry (Sara Elizabeth Lawry)','Chaudanson, Miss. Victorine','Chevre, Mr. Paul Romaine','Chisholm, Mr. Roderick Robert Crispin','Christy, Mrs. (Alice Frances)','Chronopoulos, Mr. Demetrios','Clark, Mr. Walter Miller','Clark, Mrs. Walter Miller (Virginia McDowell)','Clarke, Mr. Charles Valentine','Colbert, Mr. Patrick','Collett, Mr. Sidney C Stuart','Compton, Mr. Alexander Taylor Jr','Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)','Conlon, Mr. Thomas Henry','Connolly, Miss. Kate','Cook, Mrs. (Selena Rogers)','Cor, Mr. Bartol','Cor, Mr. Ivan','Corbett, Mrs. Walter H (Irene Colvin)','Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)','Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)','Cotterill, Mr. Henry Harry\"\"','Coutts, Mrs. William (Winnie Minnie\" Treanor)\"','Crafton, Mr. John Bertram','Cribb, Miss. Laura Alice','Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)','Cumings, Mr. John Bradley','Daher, Mr. Shedid','Daly, Miss. Margaret Marcella Maggie\"\"','Danbom, Master. Gilbert Sigvard Emanuel','Daniels, Miss. Sarah','Davidson, Mrs. Thornton (Orian Hays)','Davies, Mr. Evan','Davies, Mr. John Samuel','Davies, Mr. Joseph','Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ','Davison, Mr. Thomas Henry','Deacon, Mr. Percy William','Dean, Miss. Elizabeth Gladys Millvina\"\"','Dean, Mrs. Bertram (Eva Georgetta Light)','Delalic, Mr. Redjo','Demetri, Mr. Marinko','Denbury, Mr. Herbert','Dennis, Mr. William','Dibden, Mr. William','Dika, Mr. Mirko','Dintcheff, Mr. Valtcho','Dodge, Dr. Washington','Dodge, Mrs. Washington (Ruth Vidaver)','Douglas, Mrs. Frederick Charles (Mary Helene Baxter)','Douglas, Mrs. Walter Donald (Mahala Dutton)','Doyle, Miss. Elizabeth','Drapkin, Miss. Jennie','Drew, Master. Marshall Brines','Drew, Mr. James Vivian','Dulles, Mr. William Crothers','Duquemin, Mr. Joseph','Duran y More, Miss. Florentina','Dyker, Mr. Adolf Fredrik','Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)','Earnshaw, Mrs. Boulton (Olive Potter)','Elias, Mr. Joseph','Enander, Mr. Ingvar','Evans, Miss. Edith Corse','Everett, Mr. Thomas James','Faunthorpe, Mr. Harry','Fillbrook, Mr. Joseph Charles','Finoli, Mr. Luigi','Flegenheim, Mrs. Alfred (Antoinette)','Fleming, Miss. Honora','Foley, Mr. Joseph','Foley, Mr. William','Ford, Mr. Arthur','Ford, Mr. Edward Watson','Fortune, Miss. Ethel Flora','Fortune, Mrs. Mark (Mary McDougald)','Fox, Mr. Patrick','Franklin, Mr. Charles (Charles Fardon)','Franklin, Mr. Thomas Parham','Frauenthal, Mr. Isaac Gerald','Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)','Gale, Mr. Harry','Geiger, Miss. Amalie','Gibson, Miss. Dorothy Winifred','Gibson, Mrs. Leonard (Pauline C Boeson)','Gilbert, Mr. William','Giles, Mr. Edgar','Giles, Mr. Ralph','Goldsmith, Mr. Nathan','Goodwin, Miss. Jessie Allis','Goodwin, Mr. Charles Frederick','Gracie, Col. Archibald IV','Greenfield, Mrs. Leo David (Blanche Strouse)','Guest, Mr. Robert','Hagardon, Miss. Kate','Hansen, Mrs. Claus Peter (Jennie L Howard)','Harbeck, Mr. William H','Harder, Mrs. George Achilles (Dorothy Annan)','Hays, Mr. Charles Melville','Head, Mr. Christopher','Hee, Mr. Ling','Hellstrom, Miss. Hilda Maria','Henriksson, Miss. Jenny Lovisa','Herman, Miss. Kate','Herman, Mr. Samuel','Hilliard, Mr. Herbert Henry','Hiltunen, Miss. Marta','Hipkins, Mr. William Edward','Hirvonen, Mrs. Alexander (Helga E Lindqvist)','Hocking, Miss. Ellen Nellie\"\"','Hocking, Mr. Samuel James Metcalfe','Hold, Mrs. Stephen (Annie Margaret Hill)','Holthen, Mr. Johan Martin','Howard, Miss. May Elizabeth','Howard, Mr. Benjamin','Howard, Mrs. Benjamin (Ellen Truelove Arman)','Hyman, Mr. Abraham','Ilieff, Mr. Ylio','Ilmakangas, Miss. Ida Livija','Ismay, Mr. Joseph Bruce','Jefferys, Mr. Clifford Thomas','Jefferys, Mr. Ernest Wilfred','Johansson Palmquist, Mr. Oskar Leander','Johansson, Mr. Nils','Johnston, Master. William Arthur Willie\"\"','Johnston, Mrs. Andrew G (Elizabeth Lily\" Watson)\"','Jones, Mr. Charles Cresson','Jonsson, Mr. Nils Hilding','Julian, Mr. Henry Forbes','Karlsson, Mr. Einar Gervasius','Karlsson, Mr. Julius Konrad Eugen','Karnes, Mrs. J Frank (Claire Bennett)','Karun, Mr. Franz','Katavelas, Mr. Vassilios (Catavelas Vassilios\")\"','Keane, Mr. Daniel','Keeping, Mr. Edwin','Kelly, Mr. James','Kennedy, Mr. John','Kenyon, Mr. Frederick R','Khalil, Mr. Betros','Khalil, Mrs. Betros (Zahie Maria\" Elias)\"','Kiernan, Mr. John','Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)','Kink, Miss. Maria','Kink-Heilmann, Mr. Anton','Kink-Heilmann, Mrs. Anton (Luise Heilmann)','Klasen, Miss. Gertrud Emilia','Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)','Krekorian, Mr. Neshan','Kreuchen, Miss. Emilie','Lahtinen, Rev. William','Lamb, Mr. John Joseph','Lane, Mr. Patrick','Laroche, Miss. Louise','Larsson-Rondberg, Mr. Edvard A','Lefebre, Mrs. Frank (Frances)','Lennon, Miss. Mary','Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey\")\"','Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)','Lindstrom, Mrs. Carl Johan (Sigrid Posse)','Linehan, Mr. Michael','Lines, Mrs. Ernest H (Elizabeth Lindsey James)','Lingane, Mr. John','Lithman, Mr. Simon','Lockyer, Mr. Edward','Loring, Mr. Joseph Holland','Louch, Mr. Charles Alexander','Lundin, Miss. Olga Elida','Lundstrom, Mr. Thure Edvin','Lyntakoff, Mr. Stanko','MacKay, Mr. George William','Maguire, Mr. John Edward','Mahon, Miss. Bridget Delia','Mahon, Mr. John','Makinen, Mr. Kalle Edvard','Malachard, Mr. Noel','Mallet, Mrs. Albert (Antoinette Magnin)','Mangiavacchi, Mr. Serafino Emilio','Mardirosian, Mr. Sarkis','Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)','Matinoff, Mr. Nicola','Maybery, Mr. Frank Hubert','McCaffry, Mr. Thomas Francis','McCarthy, Miss. Catherine Katie\"\"','McCoy, Miss. Alicia','McCrae, Mr. Arthur Gordon','McCrie, Mr. James Matthew','McGowan, Miss. Katherine','McNamee, Mrs. Neal (Eileen O\'Leary)','McNeill, Miss. Bridget','Midtsjo, Mr. Karl Albert','Miles, Mr. Frank','Minahan, Mrs. William Edward (Lillian E Thorpe)','Minkoff, Mr. Lazar','Mock, Mr. Philipp Edmund','Moore, Mr. Clarence Bloomfield','Moubarek, Mrs. George (Omine Amenia\" Alexander)\"','Mulvihill, Miss. Bertha E','Murphy, Miss. Nora','Myles, Mr. Thomas Francis','Nakid, Mrs. Said (Waika Mary\" Mowad)\"','Nancarrow, Mr. William Henry','Nasr, Mr. Mustafa','Naughton, Miss. Hannah','Nesson, Mr. Israel','Nieminen, Miss. Manta Josefina','Niklasson, Mr. Samuel','Nilsson, Miss. Berta Olivia','Nilsson, Mr. August Ferdinand','Nourney, Mr. Alfred (Baron von Drachstedt\")\"','O\'Connor, Mr. Patrick','O\'Donoghue, Ms. Bridget','O\'Keefe, Mr. Patrick','Oliva y Ocana, Dona. Fermina','Olsen, Master. Artur Karl','Olsson, Mr. Oscar Wilhelm','Omont, Mr. Alfred Fernand','Oreskovic, Miss. Jelka','Ostby, Miss. Helene Ragnhild','Ovies y Rodriguez, Mr. Servando','Oxenham, Mr. Percy Thomas','Pallas y Castello, Mr. Emilio','Palsson, Master. Paul Folke','Parker, Mr. Clifford Richard','Payne, Mr. Vivian Ponsonby','Peacock, Master. Alfred Edward','Peacock, Miss. Treasteall','Peacock, Mrs. Benjamin (Edith Nile)','Pearce, Mr. Ernest','Pedersen, Mr. Olaf','Peltomaki, Mr. Nikolai Johannes','Peruschitz, Rev. Joseph Maria','Peter, Master. Michael J','Petersen, Mr. Marius','Phillips, Miss. Alice Frances Louisa','Phillips, Mr. Escott Robert','Pokrnic, Mr. Mate','Pokrnic, Mr. Tome','Portaluppi, Mr. Emilio Ilario Giuseppe','Pulbaum, Mr. Franz','Quick, Miss. Winifred Vera','Rasmussen, Mrs. (Lena Jacobsen Solvang)','Reynolds, Mr. Harold J','Rheims, Mr. George Alexander Lucien','Rice, Master. Albert','Riihivouri, Miss. Susanna Juhantytar Sanni\"\"','Riordan, Miss. Johanna Hannah\"\"','Risien, Mrs. Samuel (Emma)','Robins, Mr. Alexander A','Rogers, Mr. Reginald Harry','Rosblom, Miss. Salli Helena','Rosenbaum, Miss. Edith Louise','Rosenshine, Mr. George (Mr George Thorne\")\"','Roth, Miss. Sarah A','Rothschild, Mr. Martin','Rowe, Mr. Alfred G','Ryan, Mr. Edward','Ryerson, Master. John Borie','Ryerson, Mr. Arthur Larned','Ryerson, Mrs. Arthur Larned (Emily Maria Borie)','Saade, Mr. Jean Nassr','Sadowitz, Mr. Harry','Saether, Mr. Simon Sivertsen','Sage, Master. William Henry','Sage, Miss. Ada','Sage, Mr. John George','Sage, Mrs. John (Annie Bullen)','Salander, Mr. Karl Johan','Salomon, Mr. Abraham L','Samaan, Mr. Elias','Samaan, Mr. Hanna','Sandstrom, Miss. Beatrice Irene','Sap, Mr. Julius','Schabert, Mrs. Paul (Emma Mock)','Schmidt, Mr. August','Shaughnessy, Mr. Patrick','Shine, Miss. Ellen Natalia','Sincock, Miss. Maude','Smith, Mr. Lucien Philip','Smith, Mrs. Lucien Philip (Mary Eloise Hughes)','Smyth, Miss. Julia','Snyder, Mr. John Pillsbury','Snyder, Mrs. John Pillsbury (Nelle Stevenson)','Spector, Mr. Woolf','Spedden, Master. Robert Douglas','Spedden, Mr. Frederic Oakley','Spencer, Mr. William Augustus','Spinner, Mr. Henry John','Stanton, Mr. Samuel Ward','Stengel, Mr. Charles Emil Henry','Stengel, Mrs. Charles Emil Henry (Annie May Morris)','Stokes, Mr. Philip Joseph','Storey, Mr. Thomas','Straus, Mr. Isidor','Straus, Mrs. Isidor (Rosalie Ida Blun)','Strilic, Mr. Ivan','Svensson, Mr. Johan Cervin','Swane, Mr. George','Sweet, Mr. George Frederick','Tenglin, Mr. Gunnar Isidor','Thomas, Mr. Charles P','Thomas, Mr. John','Thomas, Mr. Tannous','Thomas, Mrs. Alexander (Thamine Thelma\")\"','Thomson, Mr. Alexander Morrison','Torfa, Mr. Assad','Touma, Master. Georges Youssef','Touma, Miss. Maria Youssef','Tucker, Mr. Gilbert Milligan Jr','Vander Planke, Mr. Julius','Vartanian, Mr. David','Veal, Mr. James','Vendel, Mr. Olof Edvin','Walcroft, Miss. Nellie','Ware, Mr. Frederick','Ware, Mr. John James','Ware, Mr. William Jeffery','Ware, Mrs. John James (Florence Louise Long)','Warren, Mr. Charles William','Warren, Mr. Frank Manley','Watt, Miss. Bertha J','Weisz, Mr. Leopold','Wells, Master. Ralph Lester','Wells, Mrs. Arthur Henry (Addie\" Dart Trevaskis)\"','Wenzel, Mr. Linhart','West, Miss. Barbara J','Whabee, Mrs. George Joseph (Shawneene Abi-Saab)','Wheeler, Mr. Edwin Frederick\"\"','White, Mrs. John Stuart (Ella Holmes)','Wick, Mr. George Dennick','Widener, Mr. George Dunton','Widener, Mrs. George Dunton (Eleanor Elkins)','Wiklund, Mr. Karl Johan','Wilkes, Mrs. James (Ellen Needs)','Willard, Miss. Constance','Willer, Mr. Aaron (Abi Weller\")\"','Williams, Mr. Richard Norris II','Wilson, Miss. Helen Alice','Wirz, Mr. Albert','Wittevrongel, Mr. Camille','Wright, Miss. Marion','Zakarian, Mr. Mapriededer','Zakarian, Mr. Ortin','de Brito, Mr. Jose Joaquim','de Messemaeker, Mr. Guillaume Joseph','del Carlo, Mrs. Sebastiano (Argenia Genovesi)','van Billiard, Master. James William','van Billiard, Master. Walter John'}
+@attribute Sex {female,male}
+@attribute Age numeric
+@attribute SibSp numeric
+@attribute Parch numeric
+@attribute Ticket {110469,110489,110813,111163,112051,112058,112377,112378,112901,113038,113044,113054,113059,113503,113509,113773,113778,113780,113781,113790,113791,113795,113796,113801,11753,11765,11767,11769,11770,11778,11813,1222,12749,13050,13236,13508,13567,13695,13905,1601,16966,17463,17464,17475,17765,17770,19877,19924,19928,19950,2003,211535,21228,21332,220844,220845,226875,228414,230136,233478,233734,235509,236853,236854,237216,237249,237393,237670,237734,237735,237789,239059,240261,240276,24065,24160,242963,244346,244358,244360,244368,248659,248726,248734,248738,248744,248746,250650,250651,2543,2621,2622,2625,26360,2650,2652,2653,2654,2655,2656,2657,2658,2660,2661,2662,2668,2670,26707,2673,2675,2676,2678,2679,2680,2681,2682,2684,2688,2689,2692,2696,2698,28004,28034,28133,28220,28221,28404,28664,28666,29103,29105,29107,2926,29750,3101266,3101295,3101297,3101298,315083,315085,315087,315091,315092,315095,315152,315153,315154,32302,329944,330844,330910,330911,330920,330924,330963,330968,330971,330972,334914,334915,335432,33638,3410,342441,342684,342712,343271,345498,345501,345572,345763,345768,345771,345775,3470,347065,347066,347070,347072,347075,347077,347079,347080,347086,347090,347091,347465,347467,347469,347471,348122,348125,349202,349211,349220,349226,349229,349230,349232,349235,349238,349250,349255,349256,349909,349910,349911,350026,350033,350045,350053,350054,350403,350405,350408,350409,350410,350416,359306,359309,363272,363611,364498,364856,364858,364859,365235,365237,36568,366713,367226,367227,368364,368402,368573,368702,368783,36928,3701,370129,370368,370371,370374,371109,371362,376563,376566,382650,382652,382653,383123,383162,386525,392091,392095,4133,65305,680,694,7266,7538,7548,7935,9232,'A. 2. 39186','A./5. 3338','A.5. 3236','A/4 31416','A/4 48871','A/4 48873','A/5 1478','A/5 21175','A/5. 3337','A/5. 851','AQ/3. 30631','AQ/4 3130','C 17368','C 4001','C.A. 15185','C.A. 2315','C.A. 2673','C.A. 30769','C.A. 31029','C.A. 31030','C.A. 33112','C.A. 33595','C.A. 34050','C.A. 34644','C.A. 34651','C.A. 37671','C.A. 42795','C.A. 49867','C.A. 6212','CA 2144','CA 31352','CA. 2343','F.C. 12750','F.C. 12998','F.C.C. 13528','F.C.C. 13534','F.C.C. 13540','LP 1588','PC 17483','PC 17531','PC 17558','PC 17562','PC 17569','PC 17580','PC 17585','PC 17591','PC 17592','PC 17594','PC 17597','PC 17598','PC 17599','PC 17603','PC 17606','PC 17607','PC 17608','PC 17613','PC 17755','PC 17756','PC 17757','PC 17758','PC 17759','PC 17760','PC 17761','PP 9549','S.C./PARIS 2079','S.O./P.P. 2','S.O./P.P. 251','S.O./P.P. 752','S.O.C. 14879','SC 14888','SC/A.3 2861','SC/A4 23568','SC/AH 29037','SC/AH 3085','SC/PARIS 2147','SC/PARIS 2148','SC/PARIS 2159','SC/PARIS 2166','SC/PARIS 2167','SC/PARIS 2168','SC/Paris 2123','SOTON/O.Q. 3101262','SOTON/O.Q. 3101263','SOTON/O.Q. 3101308','SOTON/O.Q. 3101309','SOTON/O.Q. 3101314','SOTON/O.Q. 3101315','SOTON/O2 3101284','SOTON/OQ 392083','STON/O 2. 3101268','STON/O 2. 3101291','STON/O2. 3101270','STON/OQ. 369943','W./C. 14260','W./C. 14266','W./C. 6607','W./C. 6608','W.E.P. 5734'}
+@attribute Fare numeric
+@attribute Cabin {A11,A18,A21,A29,A34,A9,B10,B11,B24,B26,B36,B41,B45,'B51 B53 B55','B52 B54 B56','B57 B59 B63 B66','B58 B60',B61,B69,B71,B78,C101,C105,C106,C116,C130,C132,'C22 C26','C23 C25 C27',C28,C31,C32,C39,C46,C51,C53,C54,'C55 C57',C6,'C62 C64',C7,C78,C80,C85,C86,C89,C97,D,'D10 D12',D15,D19,D21,D22,D28,D30,D34,D37,D38,D40,D43,E31,E34,'E39 E41',E45,E46,E50,E52,E60,F,'F E46','F E57','F G63',F2,F33,F4,G6}
+@attribute Embarked {C,Q,S}
+@attribute Survived {false,true}
+
+@data
+892,3,'Kelly, Mr. James',male,39,0,0,330911,139,?,Q,false
+893,3,'Wilkes, Mrs. James (Ellen Needs)',female,55,1,0,363272,120,?,S,true
+894,2,'Myles, Mr. Thomas Francis',male,71,0,0,240276,166,?,Q,false
+895,3,'Wirz, Mr. Albert',male,28,0,0,315154,156,?,S,false
+896,3,'Hirvonen, Mrs. Alexander (Helga E Lindqvist)',female,21,1,1,3101298,7,?,S,true
+897,3,'Svensson, Mr. Johan Cervin',male,10,0,0,7538,162,?,S,false
+898,3,'Connolly, Miss. Kate',female,33,0,0,330972,129,?,Q,true
+899,2,'Caldwell, Mr. Albert Francis',male,26,1,1,248738,74,?,S,false
+900,3,'Abrahim, Mrs. Joseph (Sophie Halaut Easu)',female,15,0,0,2657,123,?,C,true
+901,3,'Davies, Mr. John Samuel',male,20,2,0,'A/4 48871',60,?,S,false
+902,3,'Ilieff, Mr. Ylio',male,?,0,0,349220,144,?,S,false
+903,1,'Jones, Mr. Charles Cresson',male,54,0,0,694,65,?,S,false
+904,1,'Snyder, Mrs. John Pillsbury (Nelle Stevenson)',female,23,1,0,21228,160,B45,S,true
+905,2,'Howard, Mr. Benjamin',male,72,1,0,24065,65,?,S,false
+906,1,'Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)',female,55,1,0,'W.E.P. 5734',114,E31,S,true
+907,2,'del Carlo, Mrs. Sebastiano (Argenia Genovesi)',female,24,1,0,'SC/PARIS 2167',70,?,C,true
+908,2,'Keane, Mr. Daniel',male,40,0,0,233734,8,?,Q,false
+909,3,'Assaf, Mr. Gerios',male,20,0,0,2692,122,?,C,false
+910,3,'Ilmakangas, Miss. Ida Livija',female,28,1,0,'STON/O2. 3101270',145,?,S,true
+911,3,'Assaf Khalil, Mrs. Mariana (Miriam\")\"',female,53,0,0,2696,122,?,C,true
+912,1,'Rothschild, Mr. Martin',male,63,1,0,'PC 17603',109,?,C,false
+913,3,'Olsen, Master. Artur Karl',male,78,0,1,'C 17368',77,?,S,false
+914,1,'Flegenheim, Mrs. Alfred (Antoinette)',female,?,0,0,'PC 17598',83,?,S,true
+915,1,'Williams, Mr. Richard Norris II',male,20,0,1,'PC 17597',115,?,C,false
+916,1,'Ryerson, Mrs. Arthur Larned (Emily Maria Borie)',female,56,1,3,'PC 17608',67,'B57 B59 B63 B66',C,true
+917,3,'Robins, Mr. Alexander A',male,59,1,0,'A/5. 3337',25,?,S,false
+918,1,'Ostby, Miss. Helene Ragnhild',female,21,0,1,113509,116,B36,C,true
+919,3,'Daher, Mr. Shedid',male,22,0,0,2698,122,?,C,false
+920,1,'Brady, Mr. John Bertram',male,49,0,0,113054,79,A21,S,false
+921,3,'Samaan, Mr. Elias',male,?,2,0,2662,49,?,C,false
+922,2,'Louch, Mr. Charles Alexander',male,59,1,0,'SC/AH 3085',65,?,S,false
+923,2,'Jefferys, Mr. Clifford Thomas',male,24,2,0,'C.A. 31029',81,?,S,false
+924,3,'Dean, Mrs. Bertram (Eva Georgetta Light)',female,37,1,2,'C.A. 2315',46,?,S,true
+925,3,'Johnston, Mrs. Andrew G (Elizabeth Lily\" Watson)\"',female,?,1,2,'W./C. 6607',59,?,S,true
+926,1,'Mock, Mr. Philipp Edmund',male,33,1,0,13236,108,C78,C,false
+927,3,'Katavelas, Mr. Vassilios (Catavelas Vassilios\")\"',male,16,0,0,2682,123,?,C,false
+928,3,'Roth, Miss. Sarah A',female,?,0,0,342712,153,?,S,true
+929,3,'Cacic, Miss. Manda',female,20,0,0,315087,156,?,S,true
+930,3,'Sap, Mr. Julius',male,25,0,0,345768,165,?,S,false
+931,3,'Hee, Mr. Ling',male,?,0,0,1601,107,?,S,false
+932,3,'Karun, Mr. Franz',male,46,0,1,349256,12,?,C,false
+933,1,'Franklin, Mr. Thomas Parham',male,?,0,0,113778,66,D34,S,false
+934,3,'Goldsmith, Mr. Nathan',male,49,0,0,'SOTON/O.Q. 3101263',140,?,S,false
+935,2,'Corbett, Mrs. Walter H (Irene Colvin)',female,33,0,0,237249,11,?,S,true
+936,1,'Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)',female,53,1,0,11753,104,D19,S,true
+937,3,'Peltomaki, Mr. Nikolai Johannes',male,25,0,0,'STON/O 2. 3101291',145,?,S,false
+938,1,'Chevre, Mr. Paul Romaine',male,53,0,0,'PC 17594',76,A9,C,false
+939,3,'Shaughnessy, Mr. Patrick',male,?,0,0,370374,134,?,Q,false
+940,1,'Bucknell, Mrs. William Robert (Emma Eliza Ward)',female,68,0,0,11813,150,D15,C,true
+941,3,'Coutts, Mrs. William (Winnie Minnie\" Treanor)\"',female,41,0,2,'C.A. 37671',36,?,S,true
+942,1,'Smith, Mr. Lucien Philip',male,24,1,0,13695,113,C31,S,false
+943,2,'Pulbaum, Mr. Franz',male,28,0,0,'SC/PARIS 2168',27,?,C,false
+944,2,'Hocking, Miss. Ellen Nellie\"\"',female,19,2,1,29105,57,?,S,true
+945,1,'Fortune, Miss. Ethel Flora',female,29,3,2,19950,68,'C23 C25 C27',S,true
+946,2,'Mangiavacchi, Mr. Serafino Emilio',male,?,0,0,'SC/A.3 2861',33,?,C,false
+947,3,'Rice, Master. Albert',male,6,4,1,382652,75,?,Q,false
+948,3,'Cor, Mr. Bartol',male,40,0,0,349230,144,?,S,false
+949,3,'Abelseth, Mr. Olaus Jorgensen',male,25,0,0,348122,130,'F G63',S,false
+950,3,'Davison, Mr. Thomas Henry',male,?,1,0,386525,39,?,S,false
+951,1,'Chaudanson, Miss. Victorine',female,41,0,0,'PC 17608',67,B61,C,true
+952,3,'Dika, Mr. Mirko',male,14,0,0,349232,144,?,S,false
+953,2,'McCrae, Mr. Arthur Gordon',male,35,0,0,237216,13,?,S,false
+954,3,'Bjorklund, Mr. Ernst Herbert',male,15,0,0,347090,134,?,S,false
+955,3,'Bradley, Miss. Bridget Delia',female,21,0,0,334914,132,?,Q,true
+956,1,'Ryerson, Master. John Borie',male,9,2,2,'PC 17608',67,'B57 B59 B63 B66',C,false
+957,2,'Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)',female,?,0,0,'F.C.C. 13534',47,?,S,true
+958,3,'Burns, Miss. Mary Delia',female,15,0,0,330963,142,?,Q,true
+959,1,'Moore, Mr. Clarence Bloomfield',male,55,0,0,113796,93,?,S,false
+960,1,'Tucker, Mr. Gilbert Milligan Jr',male,34,0,0,2543,73,C53,C,false
+961,1,'Fortune, Mrs. Mark (Mary McDougald)',female,68,1,4,19950,68,'C23 C25 C27',S,true
+962,3,'Mulvihill, Miss. Bertha E',female,24,0,0,382653,134,?,Q,true
+963,3,'Minkoff, Mr. Lazar',male,20,0,0,349211,144,?,S,false
+964,3,'Nieminen, Miss. Manta Josefina',female,31,0,0,3101297,145,?,S,true
+965,1,'Ovies y Rodriguez, Mr. Servando',male,30,0,0,'PC 17562',70,D43,C,false
+966,1,'Geiger, Miss. Amalie',female,40,0,0,113503,51,C130,C,true
+967,1,'Keeping, Mr. Edwin',male,36,0,0,113503,51,C132,C,false
+968,3,'Miles, Mr. Frank',male,?,0,0,359306,153,?,S,false
+969,1,'Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)',female,63,2,0,11770,63,C101,S,true
+970,2,'Aldworth, Mr. Charles Augustus',male,33,0,0,248744,11,?,S,false
+971,3,'Doyle, Miss. Elizabeth',female,24,0,0,368702,134,?,Q,true
+972,3,'Boulos, Master. Akar',male,67,1,1,2678,30,?,C,false
+973,1,'Straus, Mr. Isidor',male,74,1,0,'PC 17483',55,'C55 C57',S,false
+974,1,'Case, Mr. Howard Brown',male,57,0,0,19924,65,?,S,false
+975,3,'Demetri, Mr. Marinko',male,?,0,0,349238,144,?,S,false
+976,2,'Lamb, Mr. John Joseph',male,?,0,0,240261,2,?,Q,false
+977,3,'Khalil, Mr. Betros',male,?,1,0,2660,23,?,C,false
+978,3,'Barry, Miss. Julia',female,28,0,0,330844,142,?,Q,true
+979,3,'Badman, Miss. Emily Louisa',female,15,0,0,'A/4 31416',153,?,S,true
+980,3,'O\'Donoghue, Ms. Bridget',female,?,0,0,364856,134,?,Q,true
+981,2,'Wells, Master. Ralph Lester',male,18,1,1,29103,57,?,S,false
+982,3,'Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)',female,21,1,0,347072,17,?,S,true
+983,3,'Pedersen, Mr. Olaf',male,?,0,0,345498,135,?,S,false
+984,1,'Davidson, Mrs. Thornton (Orian Hays)',female,28,1,2,'F.C. 12750',103,B71,S,true
+985,3,'Guest, Mr. Robert',male,?,0,0,376563,153,?,S,false
+986,1,'Birnbaum, Mr. Jakob',male,25,0,0,13905,65,?,C,false
+987,3,'Tenglin, Mr. Gunnar Isidor',male,25,0,0,350033,137,?,S,false
+988,1,'Cavendish, Mrs. Tyrell William (Julia Florence Siegel)',female,76,1,0,19877,151,C46,S,true
+989,3,'Makinen, Mr. Kalle Edvard',male,31,0,0,'STON/O 2. 3101268',145,?,S,false
+990,3,'Braf, Miss. Elin Ester Maria',female,19,0,0,347471,141,?,S,true
+991,3,'Nancarrow, Mr. William Henry',male,37,0,0,'A./5. 3338',153,?,S,false
+992,1,'Stengel, Mrs. Charles Emil Henry (Annie May Morris)',female,51,1,0,11778,106,C116,C,true
+993,2,'Weisz, Mr. Leopold',male,28,1,0,228414,65,?,S,false
+994,3,'Foley, Mr. William',male,?,0,0,365235,134,?,Q,false
+995,3,'Johansson Palmquist, Mr. Oskar Leander',male,26,0,0,347070,135,?,S,false
+996,3,'Thomas, Mrs. Alexander (Thamine Thelma\")\"',female,13,1,1,2625,155,?,C,true
+997,3,'Holthen, Mr. Johan Martin',male,29,0,0,'C 4001',54,?,S,false
+998,3,'Buckley, Mr. Daniel',male,20,0,0,330920,138,?,Q,false
+999,3,'Ryan, Mr. Edward',male,?,0,0,383162,134,?,Q,false
+1000,3,'Willer, Mr. Aaron (Abi Weller\")\"',male,?,0,0,3410,157,?,S,false
+1001,2,'Swane, Mr. George',male,16,0,0,248734,11,F,S,false
+1002,2,'Stanton, Mr. Samuel Ward',male,49,0,0,237734,28,?,C,false
+1003,3,'Shine, Miss. Ellen Natalia',female,?,0,0,330968,136,?,Q,true
+1004,1,'Evans, Miss. Edith Corse',female,41,0,0,'PC 17531',82,A29,C,true
+1005,3,'Buckley, Miss. Katherine',female,16,0,0,329944,125,?,Q,true
+1006,1,'Straus, Mrs. Isidor (Rosalie Ida Blun)',female,72,1,0,'PC 17483',55,'C55 C57',S,true
+1007,3,'Chronopoulos, Mr. Demetrios',male,15,1,0,2680,23,?,C,false
+1008,3,'Thomas, Mr. John',male,?,0,0,2681,110,?,C,false
+1009,3,'Sandstrom, Miss. Beatrice Irene',female,5,1,1,'PP 9549',40,G6,S,true
+1010,1,'Beattie, Mr. Thomson',male,41,0,0,13050,148,C6,C,false
+1011,2,'Chapman, Mrs. John Henry (Sara Elizabeth Lawry)',female,31,1,0,'SC/AH 29037',65,?,S,true
+1012,2,'Watt, Miss. Bertha J',female,8,0,0,'C.A. 33595',35,?,S,true
+1013,3,'Kiernan, Mr. John',male,?,1,0,367227,134,?,Q,false
+1014,1,'Schabert, Mrs. Paul (Emma Mock)',female,40,1,0,13236,108,C28,C,true
+1015,3,'Carver, Mr. Alfred John',male,29,0,0,392095,124,?,S,false
+1016,3,'Kennedy, Mr. John',male,?,0,0,368783,134,?,Q,false
+1017,3,'Cribb, Miss. Laura Alice',female,14,0,1,371362,39,?,S,true
+1018,3,'Brobeck, Mr. Karl Rudolf',male,21,0,0,350045,137,?,S,false
+1019,3,'McCoy, Miss. Alicia',female,?,2,0,367226,58,?,Q,true
+1020,2,'Bowenur, Mr. Solomon',male,50,0,0,211535,11,?,S,false
+1021,3,'Petersen, Mr. Marius',male,24,0,0,342441,153,?,S,false
+1022,3,'Spinner, Mr. Henry John',male,35,0,0,'STON/OQ. 369943',153,?,S,false
+1023,1,'Gracie, Col. Archibald IV',male,61,0,0,113780,72,C51,C,false
+1024,3,'Lefebre, Mrs. Frank (Frances)',female,?,0,4,4133,62,?,S,true
+1025,3,'Thomas, Mr. Charles P',male,?,1,0,2621,110,?,C,false
+1026,3,'Dintcheff, Mr. Valtcho',male,51,0,0,349226,144,?,S,false
+1027,3,'Carlsson, Mr. Carl Robert',male,24,0,0,350409,141,?,S,false
+1028,3,'Zakarian, Mr. Mapriededer',male,27,0,0,2656,122,?,C,false
+1029,2,'Schmidt, Mr. August',male,26,0,0,248659,11,?,S,false
+1030,3,'Drapkin, Miss. Jennie',female,23,0,0,'SOTON/OQ 392083',153,?,S,true
+1031,3,'Goodwin, Mr. Charles Frederick',male,47,1,6,'CA 2144',96,?,S,false
+1032,3,'Goodwin, Miss. Jessie Allis',female,6,5,2,'CA 2144',96,?,S,true
+1033,1,'Daniels, Miss. Sarah',female,37,0,0,113781,37,?,S,true
+1034,1,'Ryerson, Mr. Arthur Larned',male,70,1,3,'PC 17608',67,'B57 B59 B63 B66',C,false
+1035,2,'Beauchamp, Mr. Henry James',male,29,0,0,244358,65,?,S,false
+1036,1,'Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey\")\"',male,50,0,0,17475,66,?,S,false
+1037,3,'Vander Planke, Mr. Julius',male,34,3,0,345763,43,?,S,false
+1038,1,'Hilliard, Mr. Herbert Henry',male,?,0,0,17463,101,E46,S,false
+1039,3,'Davies, Mr. Evan',male,21,0,0,'SC/A4 23568',153,?,S,false
+1040,1,'Crafton, Mr. John Bertram',male,?,0,0,113791,66,?,S,false
+1041,2,'Lahtinen, Rev. William',male,33,1,1,250651,65,?,S,false
+1042,1,'Earnshaw, Mrs. Boulton (Olive Potter)',female,23,0,1,11767,161,C54,C,true
+1043,3,'Matinoff, Mr. Nicola',male,?,0,0,349255,144,?,C,false
+1044,3,'Storey, Mr. Thomas',male,69,0,0,3701,?,?,S,false
+1045,3,'Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)',female,41,0,2,350405,6,?,S,true
+1046,3,'Asplund, Master. Filip Oscar',male,9,4,2,347077,80,?,S,false
+1047,3,'Duquemin, Mr. Joseph',male,24,0,0,'S.O./P.P. 752',126,?,S,false
+1048,1,'Bird, Miss. Ellen',female,31,0,0,'PC 17483',55,C97,S,true
+1049,3,'Lundin, Miss. Olga Elida',female,23,0,0,347469,141,?,S,true
+1050,1,'Borebank, Mr. John James',male,50,0,0,110489,66,D22,S,false
+1051,3,'Peacock, Mrs. Benjamin (Edith Nile)',female,26,0,2,'SOTON/O.Q. 3101315',14,?,S,true
+1052,3,'Smyth, Miss. Julia',female,?,0,0,335432,133,?,Q,true
+1053,3,'Touma, Master. Georges Youssef',male,75,1,1,2650,30,?,C,false
+1054,2,'Wright, Miss. Marion',female,26,0,0,220844,13,?,S,true
+1055,3,'Pearce, Mr. Ernest',male,?,0,0,343271,120,?,S,false
+1056,2,'Peruschitz, Rev. Joseph Maria',male,49,0,0,237393,11,?,S,false
+1057,3,'Kink-Heilmann, Mrs. Anton (Luise Heilmann)',female,26,1,1,315153,52,?,S,true
+1058,1,'Brandeis, Mr. Emil',male,56,0,0,'PC 17591',99,B10,C,false
+1059,3,'Ford, Mr. Edward Watson',male,15,2,2,'W./C. 6608',85,?,S,false
+1060,1,'Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)',female,?,0,0,17770,70,?,C,true
+1061,3,'Hellstrom, Miss. Hilda Maria',female,21,0,0,7548,158,?,S,true
+1062,3,'Lithman, Mr. Simon',male,?,0,0,'S.O./P.P. 251',126,?,S,false
+1063,3,'Zakarian, Mr. Ortin',male,28,0,0,2670,122,?,C,false
+1064,3,'Dyker, Mr. Adolf Fredrik',male,23,1,0,347072,17,?,S,false
+1065,3,'Torfa, Mr. Assad',male,?,0,0,2673,123,?,C,false
+1066,3,'Asplund, Mr. Carl Oscar Vilhelm Gustafsson',male,47,1,5,347077,80,?,S,false
+1067,2,'Brown, Miss. Edith Eileen',female,12,0,2,29750,88,?,S,true
+1068,2,'Sincock, Miss. Maude',female,19,0,0,'C.A. 33112',86,?,S,true
+1069,1,'Stengel, Mr. Charles Emil Henry',male,62,1,0,11778,106,C116,C,false
+1070,2,'Becker, Mrs. Allen Oliver (Nellie E Baumgardner)',female,41,0,3,230136,88,F4,S,true
+1071,1,'Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)',female,73,0,2,'PC 17756',161,E45,C,true
+1072,2,'McCrie, Mr. James Matthew',male,33,0,0,233478,11,?,S,false
+1073,1,'Compton, Mr. Alexander Taylor Jr',male,43,1,1,'PC 17756',161,E52,C,false
+1074,1,'Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)',female,15,1,0,113773,105,D30,S,true
+1075,3,'Lane, Mr. Patrick',male,?,0,0,7935,134,?,Q,false
+1076,1,'Douglas, Mrs. Frederick Charles (Mary Helene Baxter)',female,28,1,1,'PC 17558',61,'B58 B60',C,true
+1077,2,'Maybery, Mr. Frank Hubert',male,47,0,0,239059,38,?,S,false
+1078,2,'Phillips, Miss. Alice Frances Louisa',female,20,0,1,'S.O./P.P. 2',47,?,S,true
+1079,3,'Davies, Mr. Joseph',male,14,2,0,'A/4 48873',153,?,S,false
+1080,3,'Sage, Miss. Ada',female,?,8,2,'CA. 2343',119,?,S,true
+1081,2,'Veal, Mr. James',male,47,0,0,28221,11,?,S,false
+1082,2,'Angle, Mr. William A',male,38,1,0,226875,65,?,S,false
+1083,1,'Salomon, Mr. Abraham L',male,?,0,0,111163,65,?,S,false
+1084,3,'van Billiard, Master. Walter John',male,7,1,1,'A/5. 851',25,?,S,false
+1085,2,'Lingane, Mr. John',male,70,0,0,235509,8,?,Q,false
+1086,2,'Drew, Master. Marshall Brines',male,77,0,2,28220,84,?,S,false
+1087,3,'Karlsson, Mr. Julius Konrad Eugen',male,37,0,0,347465,141,?,S,false
+1088,1,'Spedden, Master. Robert Douglas',male,67,0,2,16966,18,E34,C,false
+1089,3,'Nilsson, Miss. Berta Olivia',female,15,0,0,347066,135,?,S,true
+1090,2,'Baimbrigge, Mr. Charles Robert',male,23,0,0,'C.A. 31030',1,?,S,false
+1091,3,'Rasmussen, Mrs. (Lena Jacobsen Solvang)',female,?,0,0,65305,154,?,S,true
+1092,3,'Murphy, Miss. Nora',female,?,0,0,36568,31,?,Q,true
+1093,3,'Danbom, Master. Gilbert Sigvard Emanuel',male,1,0,2,347080,22,?,S,false
+1094,1,'Astor, Col. John Jacob',male,55,1,0,'PC 17757',56,'C62 C64',C,false
+1095,2,'Quick, Miss. Winifred Vera',female,77,1,1,26360,65,?,S,true
+1096,2,'Andrew, Mr. Frank Thomas',male,25,0,0,'C.A. 34050',1,?,S,false
+1097,1,'Omont, Mr. Alfred Fernand',male,?,0,0,'F.C. 12998',64,?,C,false
+1098,3,'McGowan, Miss. Katherine',female,40,0,0,9232,134,?,Q,true
+1099,2,'Collett, Mr. Sidney C Stuart',male,24,0,0,28034,1,?,S,false
+1100,1,'Rosenbaum, Miss. Edith Louise',female,37,0,0,'PC 17613',70,A11,C,true
+1101,3,'Delalic, Mr. Redjo',male,25,0,0,349250,144,?,S,false
+1102,3,'Andersen, Mr. Albert Karvin',male,35,0,0,'C 4001',54,?,S,false
+1103,3,'Finoli, Mr. Luigi',male,?,0,0,'SOTON/O.Q. 3101308',121,?,S,false
+1104,2,'Deacon, Mr. Percy William',male,14,0,0,'S.O.C. 14879',147,?,S,false
+1105,2,'Howard, Mrs. Benjamin (Ellen Truelove Arman)',female,68,1,0,24065,65,?,S,true
+1106,3,'Andersson, Miss. Ida Augusta Margareta',female,44,4,2,347091,135,?,S,true
+1107,1,'Head, Mr. Christopher',male,50,0,0,113038,94,B11,S,false
+1108,3,'Mahon, Miss. Bridget Delia',female,?,0,0,330924,142,?,Q,true
+1109,1,'Wick, Mr. George Dennick',male,64,1,1,36928,41,?,S,false
+1110,1,'Widener, Mrs. George Dunton (Eleanor Elkins)',female,59,1,1,113503,51,C80,C,true
+1111,3,'Thomson, Mr. Alexander Morrison',male,?,0,0,32302,153,?,S,false
+1112,2,'Duran y More, Miss. Florentina',female,33,1,0,'SC/PARIS 2148',15,?,C,true
+1113,3,'Reynolds, Mr. Harold J',male,20,0,0,342684,153,?,S,false
+1114,2,'Cook, Mrs. (Selena Rogers)',female,21,0,0,'W./C. 14266',1,F33,S,true
+1115,3,'Karlsson, Mr. Einar Gervasius',male,20,0,0,350053,137,?,S,false
+1116,1,'Candee, Mrs. Edward (Helen Churchill Hungerford)',female,61,0,0,'PC 17606',69,?,C,true
+1117,3,'Moubarek, Mrs. George (Omine Amenia\" Alexander)\"',female,?,0,2,2661,30,?,C,true
+1118,3,'Asplund, Mr. Johan Charles',male,23,0,0,350054,137,?,S,false
+1119,3,'McNeill, Miss. Bridget',female,?,0,0,370368,134,?,Q,true
+1120,3,'Everett, Mr. Thomas James',male,48,0,0,'C.A. 6212',29,?,S,false
+1121,2,'Hocking, Mr. Samuel James Metcalfe',male,41,0,0,242963,11,?,S,false
+1122,2,'Sweet, Mr. George Frederick',male,10,0,0,220845,118,?,S,false
+1123,1,'Willard, Miss. Constance',female,20,0,0,113795,66,?,S,true
+1124,3,'Wiklund, Mr. Karl Johan',male,20,1,0,3101266,111,?,S,false
+1125,3,'Linehan, Mr. Michael',male,?,0,0,330971,142,?,Q,false
+1126,1,'Cumings, Mr. John Bradley',male,46,1,0,'PC 17599',146,C85,C,false
+1127,3,'Vendel, Mr. Olof Edvin',male,19,0,0,350416,141,?,S,false
+1128,1,'Warren, Mr. Frank Manley',male,73,1,0,110813,149,D37,C,false
+1129,3,'Baccos, Mr. Raffull',male,19,0,0,2679,122,?,C,false
+1130,2,'Hiltunen, Miss. Marta',female,15,1,1,250650,11,?,S,true
+1131,1,'Douglas, Mrs. Walter Donald (Mahala Dutton)',female,56,1,0,'PC 17761',3,C86,C,true
+1132,1,'Lindstrom, Mrs. Carl Johan (Sigrid Posse)',female,63,0,0,112377,70,?,C,true
+1133,2,'Christy, Mrs. (Alice Frances)',female,53,0,2,237789,78,?,S,true
+1134,1,'Spedden, Mr. Frederic Oakley',male,53,1,1,16966,18,E34,C,false
+1135,3,'Hyman, Mr. Abraham',male,?,0,0,3470,143,?,S,false
+1136,3,'Johnston, Master. William Arthur Willie\"\"',male,?,1,2,'W./C. 6607',59,?,S,false
+1137,1,'Kenyon, Mr. Frederick R',male,49,1,0,17464,101,D21,S,false
+1138,2,'Karnes, Mrs. J Frank (Claire Bennett)',female,21,0,0,'F.C.C. 13534',47,?,S,true
+1139,2,'Drew, Mr. James Vivian',male,50,1,1,28220,84,?,S,false
+1140,2,'Hold, Mrs. Stephen (Annie Margaret Hill)',female,31,1,0,26707,65,?,S,true
+1141,3,'Khalil, Mrs. Betros (Zahie Maria\" Elias)\"',female,?,1,0,2660,23,?,C,true
+1142,2,'West, Miss. Barbara J',female,4,1,2,'C.A. 34651',71,?,S,true
+1143,3,'Abrahamsson, Mr. Abraham August Johannes',male,19,0,0,'SOTON/O2 3101284',145,?,S,false
+1144,1,'Clark, Mr. Walter Miller',male,28,1,0,13508,20,C89,C,false
+1145,3,'Salander, Mr. Karl Johan',male,24,0,0,7266,163,?,S,false
+1146,3,'Wenzel, Mr. Linhart',male,36,0,0,345775,165,?,S,false
+1147,3,'MacKay, Mr. George William',male,?,0,0,'C.A. 42795',126,?,S,false
+1148,3,'Mahon, Mr. John',male,?,0,0,'AQ/4 3130',134,?,Q,false
+1149,3,'Niklasson, Mr. Samuel',male,29,0,0,363611,153,?,S,false
+1150,2,'Bentham, Miss. Lilian W',female,17,0,0,28404,11,?,S,true
+1151,3,'Midtsjo, Mr. Karl Albert',male,20,0,0,345501,135,?,S,false
+1152,3,'de Messemaeker, Mr. Guillaume Joseph',male,42,1,0,345572,42,?,S,false
+1153,3,'Nilsson, Mr. August Ferdinand',male,20,0,0,350410,141,?,S,false
+1154,2,'Wells, Mrs. Arthur Henry (Addie\" Dart Trevaskis)\"',female,31,0,2,29103,57,?,S,true
+1155,3,'Klasen, Miss. Gertrud Emilia',female,5,1,1,350405,6,?,S,true
+1156,2,'Portaluppi, Mr. Emilio Ilario Giuseppe',male,33,0,0,'C.A. 34644',9,?,C,false
+1157,3,'Lyntakoff, Mr. Stanko',male,?,0,0,349235,144,?,S,false
+1158,1,'Chisholm, Mr. Roderick Robert Crispin',male,?,0,0,112051,0,?,S,false
+1159,3,'Warren, Mr. Charles William',male,?,0,0,'C.A. 49867',126,?,S,false
+1160,3,'Howard, Miss. May Elizabeth',female,?,0,0,'A. 2. 39186',153,?,S,true
+1161,3,'Pokrnic, Mr. Mate',male,14,0,0,315095,156,?,S,false
+1162,1,'McCaffry, Mr. Thomas Francis',male,54,0,0,13050,148,C6,C,false
+1163,3,'Fox, Mr. Patrick',male,?,0,0,368573,134,?,Q,false
+1164,1,'Clark, Mrs. Walter Miller (Virginia McDowell)',female,26,1,0,13508,20,C89,C,true
+1165,3,'Lennon, Miss. Mary',female,?,1,0,370371,31,?,Q,true
+1166,3,'Saade, Mr. Jean Nassr',male,?,0,0,2676,122,?,C,false
+1167,2,'Bryhl, Miss. Dagmar Jenny Ingeborg ',female,19,1,0,236853,65,?,S,true
+1168,2,'Parker, Mr. Clifford Richard',male,29,0,0,'SC 14888',1,?,S,false
+1169,2,'Faunthorpe, Mr. Harry',male,47,1,0,2926,65,?,S,false
+1170,2,'Ware, Mr. John James',male,33,1,0,'CA 31352',47,?,S,false
+1171,2,'Oxenham, Mr. Percy Thomas',male,21,0,0,'W./C. 14260',1,?,S,false
+1172,3,'Oreskovic, Miss. Jelka',female,23,0,0,315085,156,?,S,true
+1173,3,'Peacock, Master. Alfred Edward',male,2,1,1,'SOTON/O.Q. 3101315',14,?,S,false
+1174,3,'Fleming, Miss. Honora',female,?,0,0,364859,134,?,Q,true
+1175,3,'Touma, Miss. Maria Youssef',female,78,1,1,2650,30,?,C,true
+1176,3,'Rosblom, Miss. Salli Helena',female,18,1,1,370129,44,?,S,true
+1177,3,'Dennis, Mr. William',male,41,0,0,'A/5 21175',124,?,S,false
+1178,3,'Franklin, Mr. Charles (Charles Fardon)',male,?,0,0,'SOTON/O.Q. 3101314',124,?,S,false
+1179,1,'Snyder, Mr. John Pillsbury',male,24,1,0,21228,160,B45,S,false
+1180,3,'Mardirosian, Mr. Sarkis',male,?,0,0,2655,123,'F E46',C,false
+1181,3,'Ford, Mr. Arthur',male,?,0,0,'A/5 1478',153,?,S,false
+1182,1,'Rheims, Mr. George Alexander Lucien',male,?,0,0,'PC 17607',90,?,S,false
+1183,3,'Daly, Miss. Margaret Marcella Maggie\"\"',female,33,0,0,382650,112,?,Q,true
+1184,3,'Nasr, Mr. Mustafa',male,?,0,0,2652,123,?,C,false
+1185,1,'Dodge, Dr. Washington',male,61,1,1,33638,159,A34,S,false
+1186,3,'Wittevrongel, Mr. Camille',male,41,0,0,345771,165,?,S,false
+1187,3,'Angheloff, Mr. Minko',male,26,0,0,349202,144,?,S,false
+1188,2,'Laroche, Miss. Louise',female,5,1,2,'SC/Paris 2123',92,?,C,true
+1189,3,'Samaan, Mr. Hanna',male,?,2,0,2662,49,?,C,false
+1190,1,'Loring, Mr. Joseph Holland',male,33,0,0,113801,95,?,S,false
+1191,3,'Johansson, Mr. Nils',male,31,0,0,347467,141,?,S,false
+1192,3,'Olsson, Mr. Oscar Wilhelm',male,35,0,0,347079,135,?,S,false
+1193,2,'Malachard, Mr. Noel',male,?,0,0,237735,28,D,C,false
+1194,2,'Phillips, Mr. Escott Robert',male,51,0,1,'S.O./P.P. 2',47,?,S,false
+1195,3,'Pokrnic, Mr. Tome',male,24,0,0,315092,156,?,S,false
+1196,3,'McCarthy, Miss. Catherine Katie\"\"',female,?,0,0,383123,134,?,Q,true
+1197,1,'Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)',female,73,1,1,112901,66,B26,S,true
+1198,1,'Allison, Mr. Hudson Joshua Creighton',male,33,1,2,113781,37,'C22 C26',S,false
+1199,3,'Aks, Master. Philip Frank',male,3,0,1,392091,164,?,S,false
+1200,1,'Hays, Mr. Charles Melville',male,63,1,1,12749,168,B69,S,false
+1201,3,'Hansen, Mrs. Claus Peter (Jennie L Howard)',female,53,1,0,350026,21,?,S,true
+1202,3,'Cacic, Mr. Jego Grga',male,15,0,0,315091,156,?,S,false
+1203,3,'Vartanian, Mr. David',male,21,0,0,2658,122,?,C,false
+1204,3,'Sadowitz, Mr. Harry',male,?,0,0,'LP 1588',127,?,S,false
+1205,3,'Carr, Miss. Jeannie',female,43,0,0,368364,134,?,Q,true
+1206,1,'White, Mrs. John Stuart (Ella Holmes)',female,63,0,0,'PC 17760',19,C32,C,true
+1207,3,'Hagardon, Miss. Kate',female,14,0,0,'AQ/3. 30631',133,?,Q,true
+1208,1,'Spencer, Mr. William Augustus',male,64,1,0,'PC 17569',26,B78,C,false
+1209,2,'Rogers, Mr. Reginald Harry',male,17,0,0,28004,1,?,S,false
+1210,3,'Jonsson, Mr. Nils Hilding',male,28,0,0,350408,141,?,S,false
+1211,2,'Jefferys, Mr. Ernest Wilfred',male,21,2,0,'C.A. 31029',81,?,S,false
+1212,3,'Andersson, Mr. Johan Samuel',male,26,0,0,347075,135,?,S,false
+1213,3,'Krekorian, Mr. Neshan',male,25,0,0,2654,123,'F E57',C,false
+1214,2,'Nesson, Mr. Israel',male,26,0,0,244368,11,F2,S,false
+1215,1,'Rowe, Mr. Alfred G',male,37,0,0,113790,66,?,S,false
+1216,1,'Kreuchen, Miss. Emilie',female,46,0,0,24160,50,?,S,true
+1217,3,'Assam, Mr. Ali',male,23,0,0,'SOTON/O.Q. 3101309',121,?,S,false
+1218,2,'Becker, Miss. Ruth Elizabeth',female,8,2,1,230136,88,F4,S,true
+1219,1,'Rosenshine, Mr. George (Mr George Thorne\")\"',male,54,0,0,'PC 17585',152,?,C,false
+1220,2,'Clarke, Mr. Charles Valentine',male,31,1,0,2003,65,?,S,false
+1221,2,'Enander, Mr. Ingvar',male,20,0,0,236854,11,?,S,false
+1222,2,'Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ',female,56,0,2,'C.A. 33112',86,?,S,true
+1223,1,'Dulles, Mr. William Crothers',male,46,0,0,'PC 17580',76,A18,C,false
+1224,3,'Thomas, Mr. Tannous',male,?,0,0,2684,122,?,C,false
+1225,3,'Nakid, Mrs. Said (Waika Mary\" Mowad)\"',female,17,1,1,2653,34,?,C,true
+1226,3,'Cor, Mr. Ivan',male,28,0,0,349229,144,?,S,false
+1227,1,'Maguire, Mr. John Edward',male,33,0,0,110469,65,C106,S,false
+1228,2,'de Brito, Mr. Jose Joaquim',male,35,0,0,244360,11,?,S,false
+1229,3,'Elias, Mr. Joseph',male,46,0,2,2675,123,?,C,false
+1230,2,'Denbury, Mr. Herbert',male,25,0,0,'C.A. 31029',81,?,S,false
+1231,3,'Betros, Master. Seman',male,?,0,0,2622,123,?,C,false
+1232,2,'Fillbrook, Mr. Joseph Charles',male,15,0,0,'C.A. 15185',1,?,S,false
+1233,3,'Lundstrom, Mr. Thure Edvin',male,35,0,0,350403,128,?,S,false
+1234,3,'Sage, Mr. John George',male,?,1,9,'CA. 2343',119,?,S,false
+1235,1,'Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)',female,65,0,1,'PC 17755',102,'B51 B53 B55',C,true
+1236,3,'van Billiard, Master. James William',male,?,1,1,'A/5. 851',25,?,S,false
+1237,3,'Abelseth, Miss. Karen Marie',female,13,0,0,348125,130,?,S,true
+1238,2,'Botsford, Mr. William Hull',male,26,0,0,237670,11,?,S,false
+1239,3,'Whabee, Mrs. George Joseph (Shawneene Abi-Saab)',female,44,0,0,2688,123,?,C,true
+1240,2,'Giles, Mr. Ralph',male,24,0,0,248726,13,?,S,false
+1241,2,'Walcroft, Miss. Nellie',female,34,0,0,'F.C.C. 13528',47,?,S,true
+1242,1,'Greenfield, Mrs. Leo David (Blanche Strouse)',female,53,0,1,'PC 17759',117,'D10 D12',C,true
+1243,2,'Stokes, Mr. Philip Joseph',male,25,0,0,'F.C.C. 13540',1,?,S,false
+1244,2,'Dibden, Mr. William',male,15,0,0,'S.O.C. 14879',147,?,S,false
+1245,2,'Herman, Mr. Samuel',male,57,1,2,220845,118,?,S,false
+1246,3,'Dean, Miss. Elizabeth Gladys Millvina\"\"',female,0,1,2,'C.A. 2315',46,?,S,true
+1247,1,'Julian, Mr. Henry Forbes',male,59,0,0,113044,65,E60,S,false
+1248,1,'Brown, Mrs. John Murray (Caroline Lane Lamson)',female,66,2,0,11769,100,C101,S,true
+1249,3,'Lockyer, Mr. Edward',male,?,0,0,1222,142,?,S,false
+1250,3,'O\'Keefe, Mr. Patrick',male,?,0,0,368402,134,?,Q,false
+1251,3,'Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)',female,33,1,0,349910,32,?,S,true
+1252,3,'Sage, Master. William Henry',male,11,8,2,'CA. 2343',119,?,S,false
+1253,2,'Mallet, Mrs. Albert (Antoinette Magnin)',female,24,1,1,'S.C./PARIS 2079',87,?,C,true
+1254,2,'Ware, Mrs. John James (Florence Louise Long)',female,34,0,0,'CA 31352',47,?,S,true
+1255,3,'Strilic, Mr. Ivan',male,28,0,0,315083,156,?,S,false
+1256,1,'Harder, Mrs. George Achilles (Dorothy Annan)',female,25,1,0,11765,106,E50,C,true
+1257,3,'Sage, Mrs. John (Annie Bullen)',female,?,1,9,'CA. 2343',119,?,S,true
+1258,3,'Caram, Mr. Joseph',male,?,1,0,2689,24,?,C,false
+1259,3,'Riihivouri, Miss. Susanna Juhantytar Sanni\"\"',female,21,0,0,3101295,91,?,S,true
+1260,1,'Gibson, Mrs. Leonard (Pauline C Boeson)',female,53,0,1,112378,109,?,C,true
+1261,2,'Pallas y Castello, Mr. Emilio',male,31,0,0,'SC/PARIS 2147',15,?,C,false
+1262,2,'Giles, Mr. Edgar',male,20,1,0,28133,5,?,S,false
+1263,1,'Wilson, Miss. Helen Alice',female,34,0,0,16966,18,'E39 E41',C,true
+1264,1,'Ismay, Mr. Joseph Bruce',male,57,0,0,112058,0,'B52 B54 B56',S,false
+1265,2,'Harbeck, Mr. William H',male,52,0,0,248746,11,?,S,false
+1266,1,'Dodge, Mrs. Washington (Ruth Vidaver)',female,62,1,1,33638,159,A34,S,true
+1267,1,'Bowen, Miss. Grace Scott',female,53,0,0,'PC 17608',67,?,C,true
+1268,3,'Kink, Miss. Maria',female,21,2,0,315152,156,?,S,true
+1269,2,'Cotterill, Mr. Henry Harry\"\"',male,20,0,0,29107,5,?,S,false
+1270,1,'Hipkins, Mr. William Edward',male,63,0,0,680,98,C39,S,false
+1271,3,'Asplund, Master. Carl Edgar',male,58,4,2,347077,80,?,S,false
+1272,3,'O\'Connor, Mr. Patrick',male,?,0,0,366713,134,?,Q,false
+1273,3,'Foley, Mr. Joseph',male,26,0,0,330910,142,?,Q,false
+1274,3,'Risien, Mrs. Samuel (Emma)',female,?,0,0,364498,25,?,S,true
+1275,3,'McNamee, Mrs. Neal (Eileen O\'Leary)',female,17,1,0,376566,39,?,S,true
+1276,2,'Wheeler, Mr. Edwin Frederick\"\"',male,?,0,0,'SC/PARIS 2159',10,?,S,false
+1277,2,'Herman, Miss. Kate',female,24,1,2,220845,118,?,S,true
+1278,3,'Aronsson, Mr. Ernst Axel Algot',male,24,0,0,349911,135,?,S,false
+1279,2,'Ashby, Mr. John',male,64,0,0,244346,11,?,S,false
+1280,3,'Canavan, Mr. Patrick',male,20,0,0,364858,134,?,Q,false
+1281,3,'Palsson, Master. Paul Folke',male,67,3,1,349909,48,?,S,false
+1282,1,'Payne, Mr. Vivian Ponsonby',male,23,0,0,12749,168,B24,S,false
+1283,1,'Lines, Mrs. Ernest H (Elizabeth Lindsey James)',female,60,0,1,'PC 17592',89,D28,S,true
+1284,3,'Abbott, Master. Eugene Joseph',male,9,0,2,'C.A. 2673',45,?,S,false
+1285,2,'Gilbert, Mr. William',male,55,0,0,'C.A. 30769',1,?,S,false
+1286,3,'Kink-Heilmann, Mr. Anton',male,31,3,1,315153,52,?,S,false
+1287,1,'Smith, Mrs. Lucien Philip (Mary Eloise Hughes)',female,15,1,0,13695,113,C31,S,true
+1288,3,'Colbert, Mr. Patrick',male,24,0,0,371109,124,?,Q,false
+1289,1,'Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)',female,56,1,1,13567,152,B41,C,true
+1290,3,'Larsson-Rondberg, Mr. Edvard A',male,21,0,0,347065,135,?,S,false
+1291,3,'Conlon, Mr. Thomas Henry',male,34,0,0,21332,133,?,Q,false
+1292,1,'Bonnell, Miss. Caroline',female,33,0,0,36928,41,C7,S,true
+1293,2,'Gale, Mr. Harry',male,44,1,0,28664,47,?,S,false
+1294,1,'Gibson, Miss. Dorothy Winifred',female,21,0,1,112378,109,?,C,true
+1295,1,'Carrau, Mr. Jose Pedro',male,14,0,0,113059,97,?,S,false
+1296,1,'Frauenthal, Mr. Isaac Gerald',male,51,1,0,17765,70,D40,C,false
+1297,2,'Nourney, Mr. Alfred (Baron von Drachstedt\")\"',male,19,0,0,'SC/PARIS 2166',16,D38,C,false
+1298,2,'Ware, Mr. William Jeffery',male,23,1,0,28666,1,?,S,false
+1299,1,'Widener, Mr. George Dunton',male,59,1,1,113503,51,C80,C,false
+1300,3,'Riordan, Miss. Johanna Hannah\"\"',female,?,0,0,334915,131,?,Q,true
+1301,3,'Peacock, Miss. Treasteall',female,32,1,1,'SOTON/O.Q. 3101315',14,?,S,true
+1302,3,'Naughton, Miss. Hannah',female,?,0,0,365237,134,?,Q,true
+1303,1,'Minahan, Mrs. William Edward (Lillian E Thorpe)',female,43,1,0,19928,167,C78,Q,true
+1304,3,'Henriksson, Miss. Jenny Lovisa',female,29,0,0,347086,135,?,S,true
+1305,3,'Spector, Mr. Woolf',male,?,0,0,'A.5. 3236',153,?,S,false
+1306,1,'Oliva y Ocana, Dona. Fermina',female,46,0,0,'PC 17758',4,C105,C,true
+1307,3,'Saether, Mr. Simon Sivertsen',male,45,0,0,'SOTON/O.Q. 3101262',124,?,S,false
+1308,3,'Ware, Mr. Frederick',male,?,0,0,359309,153,?,S,false
+1309,3,'Peter, Master. Michael J',male,?,1,1,2668,53,?,C,false
